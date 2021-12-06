@@ -1,4 +1,4 @@
-Year,Series,Safely managed element,Safely managed service level,Treatment connection,Residence type,Observation status,Units,Unit multiplier,Value
+Year,Series,Safely managed element,Service level,Treatment connection,Residence type,Observation status,Units,Unit multiplier,Value
 2000,Proportion of population using safely managed sanitation services (%),,Safely managed,,,Normal value,Percentage (%),Units,97.74101
 2001,Proportion of population using safely managed sanitation services (%),,Safely managed,,,Normal value,Percentage (%),Units,97.74638
 2002,Proportion of population using safely managed sanitation services (%),,Safely managed,,,Normal value,Percentage (%),Units,97.76231
@@ -62,69 +62,132 @@ Year,Series,Safely managed element,Safely managed service level,Treatment connec
 2018,Proportion of population using safely managed sanitation services (%),,Safely managed,,Urban,Normal value,Percentage (%),Units,98.962
 2019,Proportion of population using safely managed sanitation services (%),,Safely managed,,Urban,Normal value,Percentage (%),Units,98.962
 2020,Proportion of population using safely managed sanitation services (%),,Safely managed,,Urban,Normal value,Percentage (%),Units,98.962
-2000,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.38898
-2001,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.38316
-2002,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.36594
-2003,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.34895
-2004,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.33208
-2005,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.31544
-2006,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.29892
-2007,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.27175
-2008,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.24469
-2009,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.21786
-2010,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.1912
-2011,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.16472
-2012,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.13828
-2013,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.1168
-2014,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.10148
-2015,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.08628
-2016,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.07114
-2017,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.05617
-2018,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.04132
-2019,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.02652
-2020,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.0119
-2000,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.96491
-2001,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.96491
-2002,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.96491
-2003,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.96491
-2004,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.96491
-2005,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.96491
-2006,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.96491
-2007,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.95478
-2008,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.94465
-2009,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.93452
-2010,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.92439
-2011,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.91426
-2012,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.90413
-2013,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.8985
-2014,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.8985
-2015,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.8985
-2016,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.8985
-2017,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.8985
-2018,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.8985
-2019,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.8985
-2020,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.8985
-2000,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.14689
-2001,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.14689
-2002,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.14689
-2003,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.14689
-2004,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.14689
-2005,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.14689
-2006,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.14689
-2007,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.13583
-2008,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.12477
-2009,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.11371
-2010,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.10266
-2011,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.0916
-2012,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.08054
-2013,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.0744
-2014,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.0744
-2015,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.0744
-2016,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.0744
-2017,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.0744
-2018,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.0744
-2019,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.0744
-2020,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.0744
+2000,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2001,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2002,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2003,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2004,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2005,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2006,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2007,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2008,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2009,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2010,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2011,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2012,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2013,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2014,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2015,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2016,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2017,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2018,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2019,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2020,Proportion of population using safely managed sanitation services (%),,Open defecation,,,Normal value,Percentage (%),Units,0.0
+2000,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2001,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2002,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2003,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2004,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2005,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2006,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2007,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2008,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2009,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2010,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2011,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2012,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2013,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2014,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2015,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2016,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2017,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2018,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2019,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2020,Proportion of population using safely managed sanitation services (%),,Open defecation,,Rural,Normal value,Percentage (%),Units,0.0
+2000,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2001,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2002,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2003,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2004,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2005,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2006,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2007,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2008,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2009,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2010,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2011,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2012,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2013,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2014,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2015,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2016,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2017,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2018,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2019,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2020,Proportion of population using safely managed sanitation services (%),,Open defecation,,Urban,Normal value,Percentage (%),Units,0.0
+2000,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.17584
+2001,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.17578
+2002,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.17559
+2003,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.17541
+2004,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.17523
+2005,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.17505
+2006,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.17488
+2007,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.1747
+2008,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.17453
+2009,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.17436
+2010,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.17419
+2011,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.17402
+2012,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.17385
+2013,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.17369
+2014,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.17352
+2015,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.17336
+2016,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.17319
+2017,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.17303
+2018,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.17287
+2019,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.17272
+2020,Proportion of population using safely managed sanitation services (%),,Unimproved,,,Normal value,Percentage (%),Units,0.17256
+2000,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2001,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2002,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2003,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2004,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2005,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2006,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2007,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2008,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2009,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2010,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2011,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2012,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2013,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2014,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2015,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2016,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2017,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2018,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2019,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2020,Proportion of population using safely managed sanitation services (%),,Unimproved,,Rural,Normal value,Percentage (%),Units,0.225
+2000,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
+2001,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
+2002,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
+2003,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
+2004,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
+2005,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
+2006,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
+2007,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
+2008,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
+2009,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
+2010,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
+2011,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
+2012,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
+2013,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
+2014,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
+2015,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
+2016,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
+2017,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
+2018,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
+2019,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
+2020,Proportion of population using safely managed sanitation services (%),,Unimproved,,Urban,Normal value,Percentage (%),Units,0.1625
 2000,Proportion of population using safely managed sanitation services (%),,Limited,,,Normal value,Percentage (%),Units,0.69417
 2001,Proportion of population using safely managed sanitation services (%),,Limited,,,Normal value,Percentage (%),Units,0.69467
 2002,Proportion of population using safely managed sanitation services (%),,Limited,,,Normal value,Percentage (%),Units,0.69615
@@ -188,6 +251,132 @@ Year,Series,Safely managed element,Safely managed service level,Treatment connec
 2018,Proportion of population using safely managed sanitation services (%),,Limited,,Urban,Normal value,Percentage (%),Units,0.8011
 2019,Proportion of population using safely managed sanitation services (%),,Limited,,Urban,Normal value,Percentage (%),Units,0.8011
 2020,Proportion of population using safely managed sanitation services (%),,Limited,,Urban,Normal value,Percentage (%),Units,0.8011
+2000,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.38898
+2001,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.38316
+2002,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.36594
+2003,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.34895
+2004,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.33208
+2005,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.31544
+2006,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.29892
+2007,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.27175
+2008,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.24469
+2009,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.21786
+2010,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.1912
+2011,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.16472
+2012,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.13828
+2013,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.1168
+2014,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.10148
+2015,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.08628
+2016,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.07114
+2017,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.05617
+2018,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.04132
+2019,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.02652
+2020,Proportion of population using safely managed sanitation services (%),,Basic,,,Normal value,Percentage (%),Units,1.0119
+2000,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.96491
+2001,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.96491
+2002,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.96491
+2003,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.96491
+2004,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.96491
+2005,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.96491
+2006,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.96491
+2007,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.95478
+2008,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.94465
+2009,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.93452
+2010,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.92439
+2011,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.91426
+2012,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.90413
+2013,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.8985
+2014,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.8985
+2015,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.8985
+2016,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.8985
+2017,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.8985
+2018,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.8985
+2019,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.8985
+2020,Proportion of population using safely managed sanitation services (%),,Basic,,Rural,Normal value,Percentage (%),Units,5.8985
+2000,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.14689
+2001,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.14689
+2002,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.14689
+2003,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.14689
+2004,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.14689
+2005,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.14689
+2006,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.14689
+2007,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.13583
+2008,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.12477
+2009,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.11371
+2010,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.10266
+2011,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.0916
+2012,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.08054
+2013,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.0744
+2014,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.0744
+2015,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.0744
+2016,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.0744
+2017,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.0744
+2018,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.0744
+2019,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.0744
+2020,Proportion of population using safely managed sanitation services (%),,Basic,,Urban,Normal value,Percentage (%),Units,0.0744
+2000,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.00983
+2001,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.00984
+2002,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.00988
+2003,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.00992
+2004,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.00995
+2005,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.00999
+2006,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.01002
+2007,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.01006
+2008,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.01009
+2009,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.01013
+2010,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.01016
+2011,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.0102
+2012,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.01023
+2013,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.01026
+2014,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.0103
+2015,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.01033
+2016,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.01036
+2017,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.01039
+2018,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.01042
+2019,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.01046
+2020,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,,Normal value,Percentage (%),Units,0.01049
+2000,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2001,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2002,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2003,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2004,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2005,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2006,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2007,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2008,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2009,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2010,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2011,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2012,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2013,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2014,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2015,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2016,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2017,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2018,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2019,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2020,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Rural,Normal value,Percentage (%),Units,0.0
+2000,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
+2001,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
+2002,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
+2003,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
+2004,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
+2005,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
+2006,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
+2007,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
+2008,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
+2009,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
+2010,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
+2011,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
+2012,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
+2013,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
+2014,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
+2015,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
+2016,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
+2017,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
+2018,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
+2019,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
+2020,Proportion of population using safely managed sanitation services (%),,Improved latrine and other,,Urban,Normal value,Percentage (%),Units,0.0125
 2000,Proportion of population using safely managed sanitation services (%),,,Septic tank,,Normal value,Percentage (%),Units,2.64412
 2001,Proportion of population using safely managed sanitation services (%),,,Septic tank,,Normal value,Percentage (%),Units,2.63244
 2002,Proportion of population using safely managed sanitation services (%),,,Septic tank,,Normal value,Percentage (%),Units,2.59786
